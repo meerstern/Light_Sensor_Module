@@ -1,0 +1,20 @@
+### Module positions - created on 2021/06/27 22:03:44 ###
+### Printed by Pcbnew version pcbnew (5.1.2)-1
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val       Package                   PosX       PosY       Rot  Side
+C1        0.1u      C_0603_1608Metric     144.4000  -100.3880   90.0000  top
+C2        0.1u      C_0603_1608Metric     139.4120   -96.6000    0.0000  top
+C3        0.1u      C_0603_1608Metric     150.5000  -100.5000   90.0000  top
+C4        0.1u      C_0603_1608Metric     144.5000   -92.1125   90.0000  top
+C5        0.1u      C_0603_1608Metric     144.5000   -95.8000   90.0000  top
+D1        LED       LED_0603_1608Metric   145.1120  -104.1000    0.0000  top
+R1        2.1k      R_0603_1608Metric     149.7120  -104.1000    0.0000  top
+R2        330       R_0603_1608Metric     145.2120   -89.5000  180.0000  top
+R3        10        R_0603_1608Metric     150.1000   -95.7875   90.0000  top
+R4        10        R_0603_1608Metric     148.3880   -89.5000  180.0000  top
+RV1       10k       rcl-RTRIMCVR42A       139.3000  -100.4000    0.0000  top
+RV2       10k       rcl-RTRIMCVR42A       155.7000  -100.3000    0.0000  top
+U2        LMV331    SOT-353_SC-70-5       147.3000   -92.1000  180.0000  top
+U3        LM321     SOT-353_SC-70-5       147.3000   -95.8000  180.0000  top
+## End

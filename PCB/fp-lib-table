@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name GroveCon)(type KiCad)(uri ${KIPRJMOD}/GroveCon.pretty)(options "")(descr ""))
+  (lib (name LightSensor)(type KiCad)(uri ${KIPRJMOD}/LightSensor.pretty)(options "")(descr ""))
+  (lib (name RV)(type KiCad)(uri ${KIPRJMOD}/RV.pretty)(options "")(descr ""))
+)
