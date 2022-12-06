@@ -20,7 +20,9 @@ Light Sensor Module with APDS-9008-020
  <img src="https://raw.githubusercontent.com/meerstern/Light_Sensor_Module/main/IMG/img1.JPG" width="360">
  <img src="https://raw.githubusercontent.com/meerstern/Light_Sensor_Module/main/IMG/img2.JPG" width="360">
  
+## 販売サイト
+  * [スイッチサイエンス][2]
  
 [1]: https://jp.broadcom.com/products/optical-sensors/ambient-light-photo-sensors/apds-9008 "*1"
-
+[2]: https://www.switch-science.com/products/7394
 MIT Lisense
